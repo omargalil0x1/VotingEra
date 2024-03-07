@@ -8,7 +8,6 @@
 
 <head>
     @vite('resources/css/about.css')
-    @vite('resources/js/about-us.js')
 </head>
 
 @section('main-content')

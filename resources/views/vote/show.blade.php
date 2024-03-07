@@ -9,7 +9,6 @@
 <head>
     @vite('resources/css/ops-block.css')
     @vite('resources/css/voting-form.css')
-    @vite('resources/js/modal.js')
     @vite('resources/js/form-validation.js')
     @vite('resources/js/form-validation-2.js')
     @vite('resources/css/error-badge.css')

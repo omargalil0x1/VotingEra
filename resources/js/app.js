@@ -1,3 +1,5 @@
+import.meta.glob([ '../images/**', ]);
+
 let home_link = document.getElementById("home-link");
 
 let vote_link = document.getElementById("vote-link");
@@ -20,4 +22,3 @@ for(let i = 0; i < links.length; i++) {
         links[i].style.fontWeight = "bold";
     }
 }
-
