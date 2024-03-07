@@ -1,0 +1,25 @@
+#single-vote-card {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+#piechart {
+    border-left-color: black;
+    border-left-width: 1px;
+    border-left-style: solid;
+}
+
+#main-card-body {
+    width: 100%;
+}
+
+#proges-stacked {
+    display: flex;
+    flex-direction: row;
+}
+
+#prgs-bar {
+    font-size: 21px;
+}
+
